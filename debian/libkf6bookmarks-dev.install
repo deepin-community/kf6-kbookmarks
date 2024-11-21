@@ -1,0 +1,5 @@
+usr/include/KF6/KBookmarks/
+usr/include/KF6/KBookmarksWidgets/
+usr/lib/*/cmake/KF6Bookmarks/
+usr/lib/*/libKF6Bookmarks.so
+usr/lib/*/libKF6BookmarksWidgets.so
